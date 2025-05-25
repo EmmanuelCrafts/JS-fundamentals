@@ -1,12 +1,15 @@
-# JavaScript is amazing!
+# JavaScript Fundamentals Project
 
-## Objective
-This project includes a simple JavaScript script that prints "JavaScript is amazing" to the console.
+This project covers some core JavaScript fundamentals, including:
+- Printing to the console
+- Using variables, constants, and data types
+- Writing conditional statements and loops
+- Functions and basic scope
+- Basic math operations
 
-## Requirements
-✅ Create a constant variable `myVar` with the value "JavaScript is amazing".  
-✅ Use `console.log(...)` to display the output.  
-✅ Do not use `var`; only `const` is allowed.
+## How to Run
 
-## Usage
-Run the script in your terminal or browser console to see the output.
+To run the script, make sure you have Node.js installed, then use:
+
+```bash
+node myscript.js
